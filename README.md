@@ -210,7 +210,7 @@ from **designing interfaces** to **building APIs and database architectures**.
 
 # 🚀 What I Build
 
-<table>
+<table  align="center">
 <tr>
 
 <td width="33%" align="center">
@@ -264,33 +264,38 @@ Reliable backend architecture:
 ---
 
 <!-- ===================================================== -->
-<!--                  GITHUB STATS                         -->
+<!--                   GITHUB STATS                        -->
 <!-- ===================================================== -->
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=MohameMasoud&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohameMasoud&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+<!-- Badges Row -->
+<a href="https://user-badge.committers.top/egypt_private/MohameMasoud">
+  <img src="https://user-badge.committers.top/egypt_private/MohameMasoud.svg" alt="Committers Top Badge" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=MohameMasoud&style=for-the-badge&color=36BCF7" alt="Visitor Badge" />
+
+<br/><br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=MohameMasoud&theme=tokyonight&exclude_days=Sun%2CFri%2CSat" alt="GitHub Streak" width="100%" style="max-width: 480px;" />
+</a>
+
+<br/><br/>
+
+<!-- Stats Cards (Side-by-side on desktop, stacked on mobile) -->
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MohameMasoud&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" style="max-width: 460px;" />
+ 
+</p>
 
 </div>
 
 ---
 
-<!-- ===================================================== -->
-<!--                  CONTRIBUTIONS                        -->
-<!-- ===================================================== -->
 
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<!-- Custom Color Contribution Graph: Using dark background with cyan/blue squares (#36BCF7) -->
-<img src="https://ghchart.rshah.org/36BCF7/MohameMasoud" alt="Mohamed's GitHub Contributions" width="100%" />
-
-</div>
----
 
 <!-- ===================================================== -->
 <!--                  DEVELOPMENT STYLE                    -->
@@ -356,7 +361,7 @@ UX and accessibility.
 
 # 💼 Professional Experience
 
-<table>
+<table  align="center">
 <tr>
 <td>
 
