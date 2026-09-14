@@ -272,25 +272,6 @@ Reliable backend architecture:
 <img src="https://github-readme-stats-fast.vercel.app/api?username=MohameMasoud&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohameMasoud&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohameMasoud&theme=tokyonight" width="70%" alt="GitHub Streak" />
-
-</div>
-
----
-
-<!-- ===================================================== -->
-<!--                  GITHUB ACTIVITY                      -->
-<!-- ===================================================== -->
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<!-- Simplified, ultra-reliable Activity Graph rendering -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohameMasoud&theme=tokyo-night" width="100%" alt="GitHub Activity Graph" />
-
 </div>
 
 ---
