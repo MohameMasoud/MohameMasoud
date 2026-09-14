@@ -85,7 +85,8 @@ from **designing interfaces** to **building APIs and database architectures**.
 │  🟢 Node.js                  │
 │  🍃 MongoDB                  │
 │  🚀 Next.js                  |
-|  🐘 PostgreSQL                │
+|  🐘 PostgreSQL               |
+│  🦁 Nest.js                  |
 │                               │
 │  💡 Problem Solver           │
 │  🎨 UI/UX Enthusiast         │
