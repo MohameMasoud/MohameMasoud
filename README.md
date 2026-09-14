@@ -269,12 +269,13 @@ Reliable backend architecture:
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=MohameMasoud&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohameMasoud&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=MohameMasoud&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohameMasoud&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohameMasoud&theme=tokyonight" width="70%" alt="GitHub Streak" />
+<!-- Reliable Streak Stats alternative endpoint -->
+<img src="https://streak-stats.demolab.com?user=MohameMasoud&theme=tokyonight" width="70%" alt="GitHub Streak" />
 
 </div>
 
@@ -288,7 +289,8 @@ Reliable backend architecture:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohameMasoud&theme=react-dark" width="100%" alt="GitHub Activity Graph" />
+<!-- Simplified, ultra-reliable Activity Graph rendering -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohameMasoud&theme=tokyo-night" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -302,6 +304,7 @@ Reliable backend architecture:
 
 <div align="center">
 
+<!-- Custom Color Contribution Graph: Using dark background with cyan/blue squares (#36BCF7) -->
 <img src="https://ghchart.rshah.org/36BCF7/MohameMasoud" alt="Mohamed's GitHub Contributions" width="100%" />
 
 </div>
