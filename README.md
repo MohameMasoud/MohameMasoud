@@ -1,28 +1,29 @@
 <!-- ===================================================== -->
-<!--                    HERO SECTION                       -->
+<!--                     HERO HEADER                       -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-# 👋 Hey, I'm Mohamed Mahmoud Masoud
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=220&section=header&text=Mohamed%20Mahmoud%20Masoud&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-### Full-Stack MERN Developer • Front-End Developer • UI/UX Enthusiast
+# 👋 Welcome to My GitHub Profile!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+Performance+%7C+UX;Turning+Ideas+Into+Digital+Products" />
+### Full-Stack MERN Developer • Front-End Specialist • Clean Architecture Advocate
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;Front-End+Developer;Clean+Code+%26+UI%2FUX+Enthusiast)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://github.com/MohameMasoud">
-    <img src="https://img.shields.io/github/followers/MohameMasoud?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="https://komarev.com/ghpvc/?username=MohameMasoud">
-    <img src="https://komarev.com/ghpvc/?username=MohameMasoud&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
-  </a>
-
+<p align="center">
   <a href="mailto:mohamedmasoud.developer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MohameMasoud">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="tel:+201090297514">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -30,229 +31,62 @@
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ===================================================== -->
+<!--                  ABOUT ME                             -->
+<!-- ===================================================== -->
 
-```javascript
-const mohamed = {
-    name: "Mohamed Mahmoud Masoud",
-    role: "Full-Stack MERN Developer",
-    location: "Menoufia, Egypt 🇪🇬",
-
-    stack: {
-        frontend: [
-            "React.js",
-            "JavaScript",
-            "TypeScript",
-            "Next.js"
-        ],
-
-        backend: [
-            "Node.js",
-            "Express.js",
-            "NestJS"
-        ],
-
-        databases: [
-            "MongoDB",
-            "PostgreSQL"
-        ],
-
-        stateManagement: [
-            "Redux",
-            "RTK Query"
-        ],
-
-        styling: [
-            "Tailwind CSS",
-            "Bootstrap",
-            "Sass",
-            "Material UI"
-        ],
-
-        tools: [
-            "Git",
-            "GitHub",
-            "Vite",
-            "Figma",
-            "Photoshop"
-        ]
-    },
-
-    principles: [
-        "Clean Code",
-        "Performance",
-        "Responsive Design",
-        "Reusable Components",
-        "User Experience"
-    ],
-
-    currentlyLearning: [
-        "Advanced Next.js",
-        "Backend Architecture",
-        "Scalable Web Applications"
-    ]
-};
-
-I'm a passionate Full-Stack MERN Developer focused on building modern,
-responsive, and scalable web applications.
-
-I enjoy transforming ideas into practical digital products while paying
-attention to clean architecture, performance, reusable components,
-responsive UI, and user experience.
-
-My professional experience includes working on frontend applications,
-REST APIs, authentication systems, performance optimization and modern
-web solutions.
-
-⚡ Tech Stack
-<div align="center">
-🎨 Front-End
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" />
-
-<br/><br/>
-
-⚙️ Back-End & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql" />
-
-<br/><br/>
-
-🛠️ Tools & Design
-<img src="https://skillicons.dev/icons?i=git,github,vite,npm,figma,photoshop" /> </div>
-💼 Professional Experience
-🚀 Front-End Web Developer — RAR-IT
-
-2025 – Present
-
-Building responsive and interactive web applications.
-Working with modern frontend technologies and reusable components.
-Improving application performance and user experience.
-Working on modern e-commerce and web solutions.
-🌐 Front-End Web Developer — ADFAZ 🇸🇦
-
-2023 – 2025
-
-Developed responsive and interactive web applications.
-Worked with HTML, CSS, JavaScript and React.js.
-Integrated REST APIs.
-Optimized frontend application performance.
-Collaborated with cross-functional teams.
-Maintained existing applications and improved cross-browser compatibility.
-💻 MERN-Stack Web Developer — Freelance
-
-2023 – Present
-
-Built responsive and scalable web applications for clients.
-Developed RESTful APIs.
-Implemented authentication systems.
-Created reusable React components.
-Worked on frontend optimization.
-Delivered modern UI/UX solutions for businesses and startups.
-👨‍🏫 Programming Instructor — Smart Code Academy
-
-2023 – 2024
-
-Taught programming fundamentals.
-Helped students understand web development concepts.
-Prepared educational materials.
-Created practical coding exercises.
-🧠 What I Work With
-<div align="center">
-Area	Technologies
-🎨 Frontend	React.js • JavaScript • TypeScript • Next.js
-🎯 UI	Tailwind CSS • Bootstrap • Material UI • Ant Design
-🔄 State	Redux • RTK Query
-⚙️ Backend	Node.js • Express.js • NestJS
-🗄️ Database	MongoDB • PostgreSQL
-🔐 Security	JWT • OAuth 2.0
-🌐 APIs	REST API • WebSockets
-🚀 Build	Vite • npm • Yarn
-🔍 SEO	SEO Principles
-💳 Payments	Payment Gateway Integration
-🎨 Design	Figma • Photoshop • Illustrator
-🔧 Version Control	Git • GitHub
-</div>
-📊 GitHub Statistics
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohameMasoud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+## 👨‍💻 About Me
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohameMasoud&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
-</div> <br/> <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MohameMasoud&theme=tokyonight&hide_border=true" width="70%" />
+### Building digital experiences with code, creativity & clean architecture 🚀
 
 </div>
-🐍 Contribution Activity
-<div align="center"> <img src="https://raw.githubusercontent.com/MohameMasoud/MohameMasoud/output/github-contribution-grid-snake-dark.svg" /> </div>
-📈 GitHub Activity
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohameMasoud&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<table>
+<tr>
+<td width="55%" valign="top">
 
-</div>
-🎯 Development Philosophy
-<div align="center">
-Write Clean Code
-Build For Users
-Optimize For Performance
-Keep Learning
-Turn Ideas Into Products
-</div>
-🎓 Education
-🎓 Bachelor’s Degree in Educational Technology & Computer Science
+### 🧑‍💻 Who Am I?
 
-Faculty of Specific Education — Menofia University
+I'm **Mohamed Mahmoud Masoud**, a **Full-Stack MERN Developer** from 🇪🇬 **Egypt**.
 
-2016 – 2020
+I specialize in building modern web applications with a strong focus on:
 
-Grade: Good
-Graduation Project: Excellent
-📚 Training & Certifications
-🏢 Information Technology Institute — ITI
-Intensive Training Program in Web Development using MEARN
-🏫 Route Academy
-Full-Stack Web Development using MEARN
-Front-End Development using HTML, CSS, Bootstrap, Sass & React.js
-Back-End Development using Node.js, Express.js, MongoDB & SQL
-🏫 Vocational Training Center
-Computer Software Maintenance
-C++ Programming
-Object-Oriented Programming
-Data Structures & Algorithms
-🚀 My Development Journey
-2016
- │
- ├── 🎓 Started Computer Science & Educational Technology
- │
-2018
- │
- ├── 💻 Computer Software & Programming Training
- │
-2021
- │
- ├── 🧠 C++ / OOP / Data Structures & Algorithms
- │
-2022
- │
- ├── ⚛️ Front-End Development
- │
-2023
- │
- ├── 🚀 MERN Stack
- ├── 💼 Freelance Development
- ├── 👨‍🏫 Programming Instructor
- └── 🇸🇦 Front-End Development at ADFAZ
- │
-2025
- │
- └── 🚀 Front-End Web Developer at RAR-IT
- │
-NOW
- │
- └── 🔥 Building Better Digital Products
-🌎 Let's Connect
-<div align="center"> <a href="mailto:mohamedmasoud.developer@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/MohameMasoud"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="tel:+201090297514"> <img src="https://img.shields.io/badge/Phone-+20%201090297514-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </div>
-<div align="center">
-💙 Thanks for visiting my profile!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/> </div> ```
+- ⚛️ Modern React applications
+- 🧩 Reusable & scalable components
+- 🚀 Performance optimization
+- 🎨 Clean & responsive UI/UX
+- 🔐 Authentication & secure APIs
+- 🌐 RESTful API integration
+- 🔍 SEO-friendly web applications
+- 💳 Payment gateway integration
+
+I enjoy working across the entire development lifecycle — from **designing interfaces** to **building APIs and database architectures**.
+
+</td>
+
+<td width="45%" valign="top">
+
+### ⚡ Developer Profile
+
+```text
+╭──────────────────────────────╮
+│                              │
+│  👨‍💻 Mohamed Masoud          │
+│                              │
+│  Full-Stack MERN Developer   │
+│                              │
+│  📍 Egypt 🇪🇬                 │
+│                              │
+│  ⚛️ React                    │
+│  🟢 Node.js                  │
+│  🍃 MongoDB                  │
+│  🚀 Next.js                  │
+│                              │
+│  💡 Problem Solver           │
+│  🎨 UI/UX Enthusiast         │
+│  🚀 Performance Focused      │
+│                              │
+╰──────────────────────────────╯
+🛠️ My Expertise🎨 Front-EndReact.jsNext.jsJavaScriptTypeScript⚙️ Back-EndNode.jsExpress.jsNestJS🗄️ DatabaseMongoDBPostgreSQL🎨 UI / DesignTailwindBootstrapSassFigma⚡ Technologies I UseFront-EndBack-End & DatabaseTools & Workflow🚀 What I Build🛒 E-CommerceModern e-commerce experiences with:React • Node.js • MongoDB💳 Payment Integration📦 Product Management🔐 Authentication📱 Responsive Design🌐 Web ApplicationsScalable applications using:React • Next.js • REST APIs⚡ Performance🧩 Reusable Components🔄 State Management🔍 SEO⚙️ Backend SystemsReliable backend architecture:Node.js • Express • MongoDB🔐 JWT / OAuth🌐 REST APIs⚡ WebSockets🗄️ Database Design📊 GitHub Statistics📈 GitHub Activity🐍 Contribution Graph🧠 How I Build💡 01UnderstandI start by understanding user needs.🏗️ 02ArchitectI design scalable solutions.💻 03BuildI create clean, reusable components.🚀 04OptimizeI improve performance & UX.💼 Professional Experience🚀 Front-End Web DeveloperRAR-IT2025 → Present🇸🇦 Front-End Web DeveloperADFAZ — Saudi Arabia2023 → 2025💻 MERN-Stack DeveloperFreelance2023 → Present👨‍🏫 Programming InstructorSmart Code Academy2023 → 2024🎓 Education🎓 Bachelor’s DegreeEducational Technology & Computer ScienceMenofia University 🇪🇬2016 — 2020Grade: Good | Graduation Project: Excellent📚 Training🏢 Institution🎯 TrainingITIIntensive Web Development — MEARNRoute AcademyFull-Stack Web Development — MEARNRoute AcademyFront-End DevelopmentRoute AcademyBack-End DevelopmentVocational Training CenterC++ / OOP / Data StructuresVocational Training CenterComputer Software Maintenance🌟 My Core Skills💙 Thanks for visiting my profile!
