@@ -269,12 +269,12 @@ Reliable backend architecture:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohameMasoud&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohameMasoud&layout=compact&langs_count=8&theme=tokyonight" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MohameMasoud&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohameMasoud&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohameMasoud&theme=tokyonight" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohameMasoud&theme=tokyonight" width="70%" alt="GitHub Streak" />
 
 </div>
 
@@ -288,7 +288,7 @@ Reliable backend architecture:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohameMasoud&theme=tokyo-night&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohameMasoud&theme=tokyo-night" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -302,7 +302,7 @@ Reliable backend architecture:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MohameMasoud/MohameMasoud/main/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+<img src="https://ghchart.rshah.org/36BCF7/MohameMasoud" alt="Mohamed's GitHub Contributions" width="100%" />
 
 </div>
 
