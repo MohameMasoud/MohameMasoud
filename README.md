@@ -269,8 +269,8 @@ Reliable backend architecture:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohameMasoud&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohameMasoud&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=MohameMasoud&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohameMasoud&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 
 <br/><br/>
 
@@ -288,7 +288,7 @@ Reliable backend architecture:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohameMasoud&theme=tokyo-night" width="100%" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohameMasoud&theme=react-dark" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -305,7 +305,6 @@ Reliable backend architecture:
 <img src="https://ghchart.rshah.org/36BCF7/MohameMasoud" alt="Mohamed's GitHub Contributions" width="100%" />
 
 </div>
-
 ---
 
 <!-- ===================================================== -->
