@@ -269,13 +269,12 @@ Reliable backend architecture:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohameMasoud&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohameMasoud&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=MohameMasoud&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohameMasoud&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- Reliable Streak Stats alternative endpoint -->
-<img src="https://streak-stats.demolab.com?user=MohameMasoud&theme=tokyonight" width="70%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohameMasoud&theme=tokyonight" width="70%" alt="GitHub Streak" />
 
 </div>
 
