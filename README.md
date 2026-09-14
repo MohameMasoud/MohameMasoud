@@ -84,8 +84,9 @@ from **designing interfaces** to **building APIs and database architectures**.
 │  ⚛️ React                    │
 │  🟢 Node.js                  │
 │  🍃 MongoDB                  │
-│  🚀 Next.js                  │
-│                              │
+│  🚀 Next.js                  |
+|  🐘 PostgreSQL                │
+│                               │
 │  💡 Problem Solver           │
 │  🎨 UI/UX Enthusiast         │
 │  🚀 Performance Focused      │
