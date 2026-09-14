@@ -424,10 +424,9 @@ UX and accessibility.
 | 🏢 Institution | 🎯 Training |
 | :--- | :--- |
 | **ITI** | Intensive Web Development — MEARN |
-| **Route Academy** | Full-Stack Web Development — MEARN |
-| **Route Academy** | Front-End Development |
-| **Route Academy** | Back-End Development |
-| **Vocational Training Center** | C++ / OOP / Data Structures |
+| **Route Academy** | Front-End Development ( React.Js |
+| **Route Academy** | Back-End Development ( Node.Js ) |
+| **Route Academy** | C++ / OOP / Data Structures |
 | **Vocational Training Center** | Computer Software Maintenance |
 
 </div>
