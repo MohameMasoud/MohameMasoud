@@ -1,94 +1,60 @@
 <!-- ===================================================== -->
-<!--                    HERO SECTION                       -->
+<!--                  ABOUT ME                            -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-# 👋 Hey, I'm Mohamed Mahmoud Masoud
+## 👨‍💻 About Me
 
-### Full-Stack MERN Developer • Front-End Developer • UI/UX Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+Performance+%7C+UX;Turning+Ideas+Into+Digital+Products" />
-
-<br/>
-
-<p>
-  <a href="https://github.com/MohameMasoud">
-    <img src="https://img.shields.io/github/followers/MohameMasoud?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="https://komarev.com/ghpvc/?username=MohameMasoud">
-    <img src="https://komarev.com/ghpvc/?username=MohameMasoud&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
-  </a>
-
-  <a href="mailto:mohamedmasoud.developer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Building digital experiences with code, creativity & clean architecture 🚀
 
 </div>
 
----
+<table>
+<tr>
+<td width="55%" valign="top">
 
-## 🧑‍💻 About Me
+### 🧑‍💻 Who Am I?
 
-```javascript
-const mohamed = {
-    name: "Mohamed Mahmoud Masoud",
-    role: "Full-Stack MERN Developer",
-    location: "Menoufia, Egypt 🇪🇬",
+I'm **Mohamed Mahmoud Masoud**, a **Full-Stack MERN Developer**
+from 🇪🇬 **Egypt**.
 
-    stack: {
-        frontend: [
-            "React.js",
-            "JavaScript",
-            "TypeScript",
-            "Next.js"
-        ],
+I specialize in building modern web applications with a strong focus on:
 
-        backend: [
-            "Node.js",
-            "Express.js",
-            "NestJS"
-        ],
+- ⚛️ Modern React applications
+- 🧩 Reusable & scalable components
+- 🚀 Performance optimization
+- 🎨 Clean & responsive UI/UX
+- 🔐 Authentication & secure APIs
+- 🌐 RESTful API integration
+- 🔍 SEO-friendly web applications
+- 💳 Payment gateway integration
 
-        databases: [
-            "MongoDB",
-            "PostgreSQL"
-        ],
+I enjoy working across the entire development lifecycle —
+from **designing interfaces** to **building APIs and database architectures**.
 
-        stateManagement: [
-            "Redux",
-            "RTK Query"
-        ],
+</td>
 
-        styling: [
-            "Tailwind CSS",
-            "Bootstrap",
-            "Sass",
-            "Material UI"
-        ],
+<td width="45%" valign="top">
 
-        tools: [
-            "Git",
-            "GitHub",
-            "Vite",
-            "Figma",
-            "Photoshop"
-        ]
-    },
+### ⚡ Developer Profile
 
-    principles: [
-        "Clean Code",
-        "Performance",
-        "Responsive Design",
-        "Reusable Components",
-        "User Experience"
-    ],
-
-    currentlyLearning: [
-        "Advanced Next.js",
-        "Backend Architecture",
-        "Scalable Web Applications"
-    ]
-};
+```text
+╭──────────────────────────────╮
+│                              │
+│  👨‍💻 Mohamed Masoud          │
+│                              │
+│  Full-Stack MERN Developer   │
+│                              │
+│  📍 Egypt 🇪🇬                 │
+│                              │
+│  ⚛️ React                    │
+│  🟢 Node.js                  │
+│  🍃 MongoDB                  │
+│  🚀 Next.js                  │
+│                              │
+│  💡 Problem Solver           │
+│  🎨 UI/UX Enthusiast         │
+│  🚀 Performance Focused      │
+│                              │
+╰──────────────────────────────╯
